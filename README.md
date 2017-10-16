@@ -1,6 +1,9 @@
 # vultr
 vultr
 
-gradle
-spring boot
-spring cloud
+##### mysql/mongodb
+##### gradle
+##### zookeeper
+##### spring boot
+##### spring cloud/apache thrift
+
